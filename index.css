@@ -1,7 +1,7 @@
 @charset "utf-8";
 
 .top {
-    border-bottom: 1px solid #C0C0C0;
+    border-bottom: 2px solid #666666;
     padding-top: 5px;
     padding-bottom: 5px;
 }
@@ -19,7 +19,6 @@
     text-align: center;
     padding-top: 0px;
     padding-bottom: 15px;
-    border-bottom: 1px solid #C0C0C0;
 }
 
 .navigate li {
@@ -30,13 +29,15 @@
     display: inline-block;
     text-align: center;
 }
-.aboutme h1 {
+.contents h1 {
     text-align: center;
 }
 
-.aboutme h3 {
+.content h3 {
     text-align: center;
-    margin-top: 100px
+    border-bottom: 2px solid #666666;
+    margin-top: 100px;
+    padding-bottom: 10px;
 }
 
 .applications h1 {
@@ -65,4 +66,14 @@
 
 .footer-text p {
     padding: 0px 250px 50px;
+}
+
+.applications {
+    border-top: 1px solid #C0C0C0;
+}
+
+.comment {
+    background-size: cover; 
+    border-top: 1px solid #C0C0C0;
+    background-color: #C0C0C0;
 }
