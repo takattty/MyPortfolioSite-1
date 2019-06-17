@@ -4,10 +4,12 @@
     border-bottom: 2px solid #666666;
     padding-top: 5px;
     padding-bottom: 5px;
+    text-align: center;
 }
 
 .top-title {
-    text-align: center;
+    display: inline-block;
+    vertical-align: top;
 }
 
 .navigate {
@@ -32,16 +34,15 @@
 
 .contens {
     display: block;
+    text-align: center;
 }
 
 .contents h1 {
     text-align: center;
 }
 
-.content h3 {
-    display: block;
+.contents h3 {
     text-align: center;
-    border-bottom: 2px solid #666666;
     margin-top: 100px;
     padding-bottom: 10px;
 }
