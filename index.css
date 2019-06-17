@@ -58,3 +58,11 @@
     margin-top: 20px;
     margin-left: 300px;
 }
+
+.me p {
+    padding: 0px 250px;
+}
+
+.footer-text p {
+    padding: 0px 250px 50px;
+}
