@@ -4,12 +4,13 @@
     text-align: center;
 }
 
-/*
-.navber ul li {
+.navber {
     display: inline;
+    text-align: center;
 }
-*/
 
+
+/*
 .navigate {
     display: table;
     table-layout: fixed;
@@ -21,7 +22,16 @@
     display: table-cell;
     vertical-align: middle;
 }
+*/
 
+.navigat {
+    text-align: center;
+}
+
+.nav-item {
+    display: inline-block;
+    text-align: center;
+}
 .aboutme h1 {
     text-align: center;
 }
