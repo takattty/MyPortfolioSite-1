@@ -21,3 +21,19 @@
     display: table-cell;
     vertical-align: middle;
 }
+
+.aboutme h1 {
+    text-align: center;
+}
+
+.aboutme h2 {
+    text-align: center;
+}
+
+.applications h1 {
+    text-align: center;
+}
+
+.comment h2 {
+    text-align: center;    
+}
