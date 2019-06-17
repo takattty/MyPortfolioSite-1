@@ -36,8 +36,9 @@
     text-align: center;
 }
 
-.aboutme h2 {
+.aboutme h3 {
     text-align: center;
+    margin-top: 100px
 }
 
 .applications h1 {
@@ -46,4 +47,16 @@
 
 .comment h2 {
     text-align: center;    
+}
+
+.applications {
+    margin-top: 100px;
+}
+
+.lang {
+    display: inline-block;
+    text-align: center;
+    margin-right: 300px;
+    margin-top: 20px;
+    margin-left: 300px;
 }
