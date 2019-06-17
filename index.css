@@ -1,5 +1,11 @@
 @charset "utf-8";
 
+.top {
+    border-bottom: 1px solid #C0C0C0;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
 .top-title {
     text-align: center;
 }
@@ -9,8 +15,15 @@
     text-align: center;
 }
 
-.navigat {
+.navigate {
     text-align: center;
+    padding-top: 0px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #C0C0C0;
+}
+
+.navigate li {
+    width: 10%;
 }
 
 .nav-item {
