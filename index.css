@@ -3,3 +3,7 @@
 .top-title {
     text-align: center;
 }
+
+.navber ul li {
+    display: inline;
+}
