@@ -10,25 +10,25 @@
     text-align: center;
 }
 
-.navber {
-    display: inline;
-    text-align: center;
-}
-
 .navigate {
-    text-align: center;
+    display:-webkit-flex;
+    display:flex;
+    width:100%;
+    list-style-type:none;
     padding-top: 0px;
     padding-bottom: 15px;
 }
 
 .navigate li {
-    width: 10%;
+    width: 20%;
 }
 
 .nav-item {
-    display: inline-block;
+    display: block;
     text-align: center;
+    text-decoration:none;
 }
+
 .contents h1 {
     text-align: center;
 }
