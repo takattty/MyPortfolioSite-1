@@ -55,10 +55,6 @@
     text-align: center;    
 }
 
-.applications {
-    margin-top: 100px;
-}
-
 .lang {
     display: inline-block;
     text-align: center;
@@ -77,10 +73,18 @@
 
 .applications {
     border-top: 1px solid #C0C0C0;
+    margin-top: 100px;
+    padding-bottom: 100px;
+}
+
+.application {
+    float: left;
+    width: 25%;
 }
 
 .comment {
     background-size: cover; 
-    border-top: 1px solid #C0C0C0;
-    background-color: #C0C0C0;
+    margin-top: 50px;
+    padding-top: 20px;
+    background-color: #666666;
 }
