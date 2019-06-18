@@ -68,7 +68,7 @@ body {
 }
 
 .lang {
-    display: inline-block;
+    display: block;
     text-align: center;
     margin-right: 300px;
     margin-top: 20px;
