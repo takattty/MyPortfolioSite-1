@@ -73,6 +73,7 @@ body {
     margin-right: 300px;
     margin-top: 20px;
     margin-left: 300px;
+    margin-bottom: 20px;
 }
 
 .me p {
@@ -99,6 +100,6 @@ body {
 .comment {
     background-size: cover; 
     margin-top: 50px;
-    padding-top: 20px;
-    background-color: #666666;
+    padding-top: 10px;
+    background-color: #a3a2a2;
 }
