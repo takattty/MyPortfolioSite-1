@@ -1,5 +1,9 @@
 @charset "utf-8";
 
+body {
+    margin: 0;
+}
+
 .top {
     border-bottom: 1px solid #666666;
     padding-top: 5px;
@@ -13,24 +17,24 @@
 }
 
 .navber {
-    text-align: center;
+    display: -webkit-flex;
+    display: flex;
+    justify-content: center;
+    -webkit-flex-wrap: nowrap;
+    flex-wrap: nowrap;
 }
 
 .navigate {
-    display:-webkit-flex;
-    display:flex;
-    width:50%;
-    list-style-type:none;
     padding-top: 10px;
     padding-bottom: 15px;
     padding-right: 50px;
-}
-
-.navigate li {
-    width: 50%;
+    padding-left: 50px;
 }
 
 .nav-item {
+    float: left;
+    padding-left: 30px;
+    padding-right: 30px;
     display: block;
     text-align: center;
     text-decoration:none;
