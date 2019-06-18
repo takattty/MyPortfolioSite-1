@@ -1,7 +1,7 @@
 @charset "utf-8";
 
 .top {
-    border-bottom: 2px solid #666666;
+    border-bottom: 1px solid #666666;
     padding-top: 5px;
     padding-bottom: 5px;
     text-align: center;
@@ -12,24 +12,32 @@
     vertical-align: top;
 }
 
+.navber {
+    text-align: center;
+}
+
 .navigate {
     display:-webkit-flex;
     display:flex;
-    width:90%;
+    width:50%;
     list-style-type:none;
-    padding-top: 0px;
+    padding-top: 10px;
     padding-bottom: 15px;
     padding-right: 50px;
 }
 
 .navigate li {
-    width: 20%;
+    width: 50%;
 }
 
 .nav-item {
     display: block;
     text-align: center;
     text-decoration:none;
+}
+
+.aboutme {
+    text-align: center;
 }
 
 .contens {
