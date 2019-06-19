@@ -25,7 +25,8 @@ body {
     align-items: center;
     padding-top: 10px;
     padding-bottom: 10px;
-    border-bottom: 1px solid #666666;
+    margin-right: 200px;
+    margin-left: 200px;
 }
 
 .nav-item {
@@ -38,6 +39,7 @@ body {
 
 .aboutme {
     text-align: center;
+    border-top: 1px solid #666666;
 }
 
 .contens {
@@ -47,10 +49,6 @@ body {
 
 .me h1 {
     text-align: center;
-}
-
-.me p {
-    
 }
 
 .content h3 {
