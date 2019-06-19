@@ -38,18 +38,30 @@ body {
 }
 
 .aboutme {
+    display: block;
     text-align: center;
     border-top: 1px solid #666666;
 }
 
-.contens {
+.contents {
     display: block;
     text-align: center;
+}
+
+.me {
+    padding-left: 200px;
+    padding-right: 200px;
 }
 
 .me h1 {
     text-align: center;
 }
+
+.content {
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
 
 .content h3 {
     text-align: center;
