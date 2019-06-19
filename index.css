@@ -24,6 +24,8 @@ body {
     -webkit-align-items: center;
     align-items: center;
     padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #666666;
 }
 
 .nav-item {
