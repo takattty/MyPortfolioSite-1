@@ -6,14 +6,17 @@ body {
 
 .top {
     border-bottom: 1px solid #666666;
+    text-align: center;
     padding-top: 5px;
     padding-bottom: 5px;
-    text-align: center;
+    padding-right: 200px;
+    padding-left: 200px;
 }
 
 .top-title {
-    display: inline-block;
-    vertical-align: top;
+    display: block;
+    padding-right: 200px;
+    padding-left: 200px;
 }
 
 .navigate {
