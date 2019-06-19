@@ -49,10 +49,13 @@ body {
     text-align: center;
 }
 
+.me p {
+    
+}
+
 .content h3 {
     text-align: center;
     margin-top: 100px;
-    padding-bottom: 10px;
 }
 
 .applications h1 {
