@@ -44,6 +44,10 @@ body {
     text-align: center;
 }
 
+.nav-item a {
+    color: black;
+}
+
 .contents {
     display: block;
     text-align: center;
