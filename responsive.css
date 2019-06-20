@@ -4,6 +4,9 @@
     width: 50%;
 }
 
+.comment {
+    margin-top: 70px;
+}
 
 }
 
@@ -14,4 +17,13 @@
     padding-top: 20px;
 }
 
+.aboutme {
+    width: 100%;
 }
+
+.me p {
+    width: 100%;
+}
+
+}
+
