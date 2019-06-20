@@ -116,6 +116,10 @@ body {
     padding-top: 20px;
 }
 
+.application a {
+    color: black;
+}
+
 .comment {
     background-size: cover;
     background-color: #c4bfbf; 
