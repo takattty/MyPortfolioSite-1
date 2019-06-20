@@ -122,10 +122,10 @@ body {
 
 .comment {
     background-size: cover;
-    background-color: #c4bfbf; 
     margin-top: 50px;
     padding-top: 10px;
     padding-bottom: 50px;
+    border-top: 1px solid #C0C0C0;
 }
 
 .comment h2 {
