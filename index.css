@@ -77,6 +77,8 @@ body {
     justify-content: flex-start;
     -webkit-flex-wrap: wrap;
     flex-wrap: wrap;
+    padding-right: 200px;
+    padding-left: 200px;
 }
 
 .lang {
