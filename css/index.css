@@ -44,6 +44,10 @@ body {
     text-align: center;
 }
 
+.nav-item:hover {
+    background-color: rgb(211, 238, 253);
+}
+
 .nav-item a {
     color: black;
 }
