@@ -64,10 +64,13 @@ body {
     width: 100%;
 }
 
+.content {
+    padding-top: 15px;
+    border-top: 1px solid #C0C0C0;
+}
+
 .content h3 {
     text-align: center;
-    padding-top: 40px;
-    border-top: 1px solid #C0C0C0;
 }
 
 .langs {
