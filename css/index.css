@@ -122,6 +122,10 @@ body {
     color: black;
 }
 
+.application-link:hover {
+    background-color: rgb(212, 212, 212);
+}
+
 .comment {
     background-size: cover;
     margin-top: 50px;
